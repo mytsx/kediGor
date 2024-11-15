@@ -60,6 +60,13 @@
 
 ---
 
+## Devre Tasarımı 🖥️
+Devre tasarımını **Tinkercad** üzerinde hazırladım. Devrenin bağlantılarını ve Arduino kodlarını görmek için aşağıdaki bağlantıyı ziyaret edebilirsiniz:
+
+🔗 [Tinkercad'de Devre Tasarımı ve Kodlar](https://www.tinkercad.com/things/7Ibchp52Ibv-funky-wolt-kup/editel?returnTo=%2Fthings%2F7Ibchp52Ibv-funky-wolt-kup&sharecode=cecobUUW0YXXnOKZKrey3Kv3OHPD219Oeqx4PGtIRyc)
+
+---
+
 ## Lisans 📄
 Bu proje açık kaynak olarak paylaşılmaktadır. Kullanımda herhangi bir kısıtlama yoktur. Katkıda bulunmak isteyenler için PR'lar açıktır! 😊
 
